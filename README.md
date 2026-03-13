@@ -2,7 +2,7 @@
 
 **AI-Powered Agri-Tech Suite for Resilient Urban & Rural Farming.**
 
-URBAN FARMER ECOSYSTEM v2.0 is a comprehensive agricultural intelligence platform designed to empower farmers with AI-driven insights, blockchain-backed accountability, and community-driven alerts. From city balconies to large-scale rural farms, this platform optimizes growth and mitigates risks.
+URBAN FARMER ECOSYSTEM  is a comprehensive agricultural intelligence platform designed to empower farmers with AI-driven insights,  accountability, and community-driven alerts. From city balconies to large-scale rural farms, this platform optimizes growth and mitigates risks.
 
 ---
 
